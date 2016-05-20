@@ -1,6 +1,6 @@
 # Lustered
 
-Admin site as data
+This project has been moved to https://github.com/athos/admin-kit and will not be maintained any more.
 
 ## License
 
